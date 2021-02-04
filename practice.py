@@ -1,17 +1,9 @@
-# print(5)
-# print(10)
-# print(15)
-# print(20)
-# print(25)
-# print(10+10)
-# print(10-10)
-# print(10*10)
-# print(10/10)
+# print("대기번호 : 1")
+# print("대기번호 : 2")
+# print("대기번호 : 3")
+# print("대기번호 : 4")
+# print("대기번호 : 5")
 
-
-
-# print(2*(6+7)/10/2)
-print('풍선')
-print('나비')
-print('ㅋㅋㅋㅋㅋㅋㅋㅋㅋ')
-print('*')
+for waiting_no in range(1,6)
+  print("대기번호 : {0}".format(waiting_no))
+  
